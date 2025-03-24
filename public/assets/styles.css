@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    background-color: blue;
+    padding: 20px;
+    margin-bottom:15px;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius:25px;
+}
+
+body{
+    background-color: aliceblue;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    
+}
